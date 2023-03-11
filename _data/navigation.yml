@@ -1,13 +1,13 @@
 # Site Header
 main:
   - title: "Docs Home"
-    url: https://www.080f53.com/docs/
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/
   - title: "Docs-Site-1"
-    url: https://www.080f53.com/docs/360-viewer/
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/360-viewer/
   - title: "Docs-Site-2"
-    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-2
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/sandbox-jekyll-docs-site-2
   - title: "Docs-Site-3"
-    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-3
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/sandbox-jekyll-docs-site-3
 
 side-nav:
   - title: 360-viewer
@@ -17,9 +17,9 @@ side-nav:
       - title: "TEST"
         url: /360-viewer/test
       - title: "Part 2"
-        url: /docs/structure/
+        url: /sandbox-jekyll-docs-site-1/structure/
       - title: "Part 3"
-        url: /docs/installation/
+        url: /sandbox-jekyll-docs-site-1/installation/
 
   - title: app-open-close-script
     children:
@@ -35,6 +35,6 @@ side-nav:
   - title: Extras
     children:
       - title: "References"
-        url: /docs/stylesheets/
+        url: /sandbox-jekyll-docs-site-1/stylesheets/
       - title: "Stuff"
-        url: /docs/javascript/
+        url: /sandbox-jekyll-docs-site-1/javascript/
