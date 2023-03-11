@@ -29,6 +29,6 @@ _asset_bundler_cache
 _site
 
 # Temporarily ignored to test GH Pages
-.travis.yml
+#.travis.yml
 #minimal-mistakes-jekyll.gemspec
 #Rakefile
