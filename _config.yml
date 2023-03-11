@@ -17,7 +17,7 @@ subtitle                 : "Just some docs"
 name                     : &name "Josh Wong" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : "https://www.080f53.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/docs/360-viewer" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/sandbox-jekyll-docs-site-1/360-viewer" # the subpath of your site, e.g. "/blog"
 repository               : "josh-wong/sandbox-jekyll-docs-site-1" # the repository path
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : ""
