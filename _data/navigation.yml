@@ -1,12 +1,40 @@
-# main links
+# Site Header
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Docs Home"
+    url: https://www.080f53.com/docs/
+  - title: "Docs-Site-1"
+    url: https://www.080f53.com/docs/360-viewer/
+  - title: "Docs-Site-2"
+    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-2
+  - title: "Docs-Site-3"
+    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-3
+
+side-nav:
+  - title: 360-viewer
+    children:
+      - title: "Overview"
+        url: /360-viewer/
+      - title: "TEST"
+        url: /360-viewer/test
+      - title: "Part 2"
+        url: /docs/structure/
+      - title: "Part 3"
+        url: /docs/installation/
+
+  - title: app-open-close-script
+    children:
+      - title: "Overview"
+        url: /app-open-close-script/
+      - title: "TEST"
+        url: /app-open-close-script/test
+      - title: "Part C"
+        url: docs/installation/
+      - title: "Part D"
+        url: docs/upgrading/
+
+  - title: Extras
+    children:
+      - title: "References"
+        url: /docs/stylesheets/
+      - title: "Stuff"
+        url: /docs/javascript/
