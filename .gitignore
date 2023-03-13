@@ -28,7 +28,3 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
-# Temporarily ignored to test GH Pages
-*.travis.yml
-#minimal-mistakes-jekyll.gemspec
-#Rakefile
