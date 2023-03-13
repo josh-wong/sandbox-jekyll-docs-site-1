@@ -25,12 +25,15 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : # true or false (default)
 #words_per_minute         : 200 # expected amount of time to read the page
 
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
+#Search function
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr
+lunr:
+  search_within_pages: true
 
 # SEO Related
 google_site_verification : # Replace this with your ID, or delete
@@ -129,7 +132,7 @@ defaults:
   # 360-viewer
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
       layout: page
       read_time: false
