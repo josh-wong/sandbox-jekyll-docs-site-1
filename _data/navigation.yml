@@ -17,7 +17,7 @@ side-nav:
       - title: "Getting started"
         url: /360-viewer/01_getting-started
       - title: "Gerund-topic"
-        url: /360-viewer/02_configuring-script
+        url: /360-viewer/02_[gerund]-[topic]
       - title: "Conclusion"
         url: /360-viewer/03_conclusion
       - title: "References"
@@ -25,6 +25,21 @@ side-nav:
       - title: "Contributions"
         url: /360-viewer/05_contributions
 
+  - title: app-open-close-script
+    children:
+      - title: "Overview"
+        url: /app-open-close-script/
+      - title: "Getting started"
+        url: /app-open-close-script/01_getting-started
+      - title: "Configure the script"
+        url: /app-open-close-script/02_configuring-script
+      - title: "Conclusion"
+        url: /app-open-close-script/03_conclusion
+      - title: "References"
+        url: /app-open-close-script/04_references
+      - title: "Contributions"
+        url: /app-open-close-script/05_contributions
+  
   - title: app-open-close-script
     children:
       - title: "Overview"
