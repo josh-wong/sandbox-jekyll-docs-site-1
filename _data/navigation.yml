@@ -4,8 +4,10 @@ main:
     url: https://www.080f53.com/sandbox-jekyll-docs-home/
   - title: "360-viewer"
     url: https://www.080f53.com/sandbox-jekyll-docs-site-1/360-viewer/
-  - title: "app-open-close-script"
-    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/app-open-close-script
+  - title: "Docs-Site-2"
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-2/
+  - title: "Docs-Site-3"
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-3/
 
 side-nav:
   - title: 360-viewer
@@ -15,7 +17,7 @@ side-nav:
       - title: "Getting started"
         url: /360-viewer/01_getting-started
       - title: "Gerund-topic"
-        url: /360-viewer/02_[gerund]-[topic]
+        url: /360-viewer/02_configuring-script
       - title: "Conclusion"
         url: /360-viewer/03_conclusion
       - title: "References"
@@ -28,19 +30,12 @@ side-nav:
       - title: "Overview"
         url: /app-open-close-script/
       - title: "Getting started"
-        url: /app-open-close-script/01_getting-started.md
+        url: /app-open-close-script/01_getting-started
       - title: "Gerund-topic"
-        url: /app-open-close-script/02_[gerund]-[topic].md
+        url: /app-open-close-script/02_[gerund]-[topic]
       - title: "Conclusion"
-        url: /app-open-close-script/03_conclusion.md
+        url: /app-open-close-script/03_conclusion
       - title: "References"
-        url: /app-open-close-script/04_references.md
+        url: /app-open-close-script/04_references
       - title: "Contributions"
-        url: /app-open-close-script/05_contributions.md
-
-  - title: Extras
-    children:
-      - title: "References"
-        url: /sandbox-jekyll-docs-site-1/stylesheets/
-      - title: "Stuff"
-        url: /sandbox-jekyll-docs-site-1/javascript/
+        url: /app-open-close-script/05_contributions
