@@ -2,12 +2,10 @@
 main:
   - title: "Docs Home"
     url: https://www.080f53.com/sandbox-jekyll-docs-home/
-  - title: "Docs-Site-1"
+  - title: "360-viewer"
     url: https://www.080f53.com/sandbox-jekyll-docs-site-1/360-viewer/
-  - title: "Docs-Site-2"
-    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/sandbox-jekyll-docs-site-2
-  - title: "Docs-Site-3"
-    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/sandbox-jekyll-docs-site-3
+  - title: "app-open-close-script"
+    url: https://www.080f53.com/sandbox-jekyll-docs-site-1/app-open-close-script
 
 side-nav:
   - title: 360-viewer
@@ -15,15 +13,15 @@ side-nav:
       - title: "Overview"
         url: /360-viewer/
       - title: "Getting started"
-        url: /360-viewer/01_getting-started.md
+        url: /360-viewer/01_getting-started
       - title: "Gerund-topic"
-        url: /360-viewer/02_[gerund]-[topic].md
+        url: /360-viewer/02_[gerund]-[topic]
       - title: "Conclusion"
-        url: /360-viewer/03_conclusion.md
+        url: /360-viewer/03_conclusion
       - title: "References"
-        url: /360-viewer/04_references.md
+        url: /360-viewer/04_references
       - title: "Contributions"
-        url: /360-viewer/05_contributions.md
+        url: /360-viewer/05_contributions
 
   - title: app-open-close-script
     children:
