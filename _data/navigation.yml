@@ -14,23 +14,31 @@ side-nav:
     children:
       - title: "Overview"
         url: /360-viewer/
-      - title: "TEST"
-        url: /360-viewer/test
-      - title: "Part 2"
-        url: /sandbox-jekyll-docs-site-1/structure/
-      - title: "Part 3"
-        url: /sandbox-jekyll-docs-site-1/installation/
+      - title: "Getting started"
+        url: /360-viewer/01_getting-started.md
+      - title: "Gerund-topic"
+        url: /360-viewer/02_[gerund]-[topic].md
+      - title: "Conclusion"
+        url: /360-viewer/03_conclusion.md
+      - title: "References"
+        url: /360-viewer/04_references.md
+      - title: "Contributions"
+        url: /360-viewer/05_contributions.md
 
   - title: app-open-close-script
     children:
       - title: "Overview"
         url: /app-open-close-script/
-      - title: "TEST"
-        url: /app-open-close-script/test
-      - title: "Part C"
-        url: docs/installation/
-      - title: "Part D"
-        url: docs/upgrading/
+      - title: "Getting started"
+        url: /app-open-close-script/01_getting-started.md
+      - title: "Gerund-topic"
+        url: /app-open-close-script/02_[gerund]-[topic].md
+      - title: "Conclusion"
+        url: /app-open-close-script/03_conclusion.md
+      - title: "References"
+        url: /app-open-close-script/04_references.md
+      - title: "Contributions"
+        url: /app-open-close-script/05_contributions.md
 
   - title: Extras
     children:
